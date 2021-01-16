@@ -1,4 +1,7 @@
 # how to save new chages to git
+# git  add.
+# git commit -am "description of changes"
+# git push
 
 from django.shortcuts import render
 
