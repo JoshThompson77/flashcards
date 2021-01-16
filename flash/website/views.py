@@ -1,3 +1,5 @@
+# how to save new chages to git
+
 from django.shortcuts import render
 
 # Create your views here.
